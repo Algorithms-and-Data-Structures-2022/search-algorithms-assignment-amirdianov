@@ -16,7 +16,7 @@
 
 using namespace assignment;
 
-constexpr int kMaxDataSize = 100;
+constexpr int kMaxDataSize = 20;
 
 std::unordered_set<int> all_sums(const std::vector<int>& data) {
 
