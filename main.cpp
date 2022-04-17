@@ -7,7 +7,7 @@ using namespace assignment;
 
 int main(int argc, char **argv) {
 
-  // Write your code here ...
+  std::cout<< 5/2;
 
   return 0;
 }
